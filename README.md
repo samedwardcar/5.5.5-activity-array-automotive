@@ -1,4 +1,4 @@
-# Activity Automative
+# Activity Automotive
 
 - In this lesson students work on sub-classing a base vehicle class
 - to do this we need a way of importing / using code from a different file...
